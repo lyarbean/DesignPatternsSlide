@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>1920x1200.jpg</file>
+        <file>factory.png</file>
+        <file>AnchorItem.qml</file>
+        <file>BackGround.qml</file>
+        <file>SectionItem.qml</file>
+        <file>adapter_ele.jpg</file>
+        <file>dp/AbstractFactory.png</file>
+        <file>dp/AdapterA.png</file>
+        <file>dp/AdapterB.png</file>
+        <file>dp/Bridge.png</file>
+        <file>dp/Composite.png</file>
+        <file>dp/Decorator.png</file>
+        <file>dp/ExtensionObject.png</file>
+        <file>dp/FactoryMethod.png</file>
+        <file>dp/Observer.png</file>
+        <file>dp/Proxy.png</file>
+        <file>dp/SimpleFactory.png</file>
+        <file>dp/StaticFactory.png</file>
+        <file>dp/STH.png</file>
+        <file>dp/Visitor.png</file>
+        <file>SectionItemOne.qml</file>
+        <file>pythagoras_tree-1969px.png</file>
+        <file>Pythagoras_tree_1_1_13.svg.png</file>
+        <file>classroom-cartoon.jpg</file>
+        <file>box-158523_960_720.png</file>
+        <file>3586-jk-bridge-download.svg</file>
+        <file>twophones.svg</file>
+        <file>dp/AVisitor.png</file>
+        <file>dp/State.png</file>
+    </qresource>
+</RCC>
